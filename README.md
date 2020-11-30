@@ -9,7 +9,7 @@ A curated list of awesome green resources to understand the social and economic 
 # readings
 * [Assessing Nature-Based Recreation to Support Urban Green Infrastructure Planning in Trento (Italy)](https://www.researchgate.net/publication/327937807_Assessing_Nature-Based_Recreation_to_Support_Urban_Green_Infrastructure_Planning_in_Trento_Italy)
 * [How to select the best tree planting locations to enhance air pollution removal in the MillionTreesNYC initiative](https://www.sciencedirect.com/science/article/pii/S0269749110005336?via%3Dihub#!)
-* [Trees As Infrastructure](https://provocations.darkmatterlabs.org/trees-as-infrastructure-1dd94e1cfedf) by @Dark-Matter-Labs
+* [Trees As Infrastructure](https://provocations.darkmatterlabs.org/trees-as-infrastructure-1dd94e1cfedf) by [Dark Matter Labs](https://darkmatterlabs.org/)
 * [Go greener, feel better? The positive effects of biodiversity on the well-being of individuals visiting urban and peri-urban green areas](https://www.sciencedirect.com/science/article/pii/S0169204614002552?via%3Dihub)
 * [https://tree-map.nycgovparks.org/](https://www.sciencedirect.com/science/article/pii/S0304380017300960?via%3Dihub)
 
